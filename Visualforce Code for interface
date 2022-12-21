@@ -1,0 +1,100 @@
+<apex:page >
+    <h1>Pet Name</h1>
+    <apex:pageBlock title="Cat">
+        <apex:pageBlockSection title="Image of Cats"></apex:pageBlockSection>
+           <apex:image url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Cat_poster_1.jpg/1200px-Cat_poster_1.jpg" styleClass="imageStyle" height="400" width="600"/>
+        <apex:pageBlockSection title="About Cat"></apex:pageBlockSection>
+        <apex:outputlink value="https://en.wikipedia.org/wiki/Cat"> Click here Read </apex:outputlink> 
+        <apex:pageBlockSection title="Date & Time of Adding"> <apex:outputText value="2018-06-02 T 03:27:38.027Z">Date added</apex:outputText></apex:pageBlockSection>
+    </apex:pageBlock>
+</apex:page>
+<apex:page >
+    <h1>Pet Name</h1>
+    <apex:pageBlock title="Rabbit">
+        <apex:pageBlockSection title="Image of Rabbit"></apex:pageBlockSection>
+           <apex:image url="https://upload.wikimedia.org/wikipedia/commons/3/30/RabbitMilwaukee.jpg" height="400" width="600"/>
+        <apex:pageBlockSection title="About Dog"></apex:pageBlockSection>
+        <apex:outputlink value="https://en.wikipedia.org/wiki/Rabbit">  Click here to Read </apex:outputlink> 
+        <apex:pageBlockSection title="Date & Time of adding Info"> <apex:outputText value="2018-06-06T08:36:16.027Z">Date added</apex:outputText></apex:pageBlockSection>                      
+    </apex:pageBlock>
+</apex:page>
+<apex:page >
+    <h1>Pet Name</h1>
+    <apex:pageBlock title="Dog">
+        <apex:pageBlockSection title="Image of Dogs"></apex:pageBlockSection>
+           <apex:image url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Collage_of_Nine_Dogs.jpg/1200px-Collage_of_Nine_Dogs.jpg" styleClass="imageStyle" height="400" width="600"/>
+        <apex:pageBlockSection title="About Dog"></apex:pageBlockSection>
+        <apex:outputlink value="https://en.wikipedia.org/wiki/Dog">  Click here to Read </apex:outputlink> 
+        <apex:pageBlockSection title="Date & Time of adding Info"> <apex:outputText value="2018-07-21T11:33:29.027Z">Date added</apex:outputText></apex:pageBlockSection>                      
+    </apex:pageBlock>
+</apex:page>
+<apex:page >
+    <h1>Pet Name</h1>
+    <apex:pageBlock title="Ferret">
+        <apex:pageBlockSection title="Image of Ferret"></apex:pageBlockSection>
+           <apex:image url="https://upload.wikimedia.org/wikipedia/commons/3/32/Ferret_2008.png" styleClass="imageStyle" height="400" width="600"/>
+        <apex:pageBlockSection title="About Ferret"></apex:pageBlockSection>
+        <apex:outputlink value="https://en.wikipedia.org/wiki/Ferret">/ Click here to Read </apex:outputlink> 
+        <apex:pageBlockSection title="Date & Time of adding Info"> <apex:outputText value="2018-06-23T19:14:04.027Z">Date added</apex:outputText></apex:pageBlockSection>                      
+    </apex:pageBlock>
+</apex:page>
+<apex:page >
+    <h1>Pet Name</h1>
+    <apex:pageBlock title="Raccoon">
+        <apex:pageBlockSection title="Image of Raccoon"></apex:pageBlockSection>
+           <apex:image url="https://upload.wikimedia.org/wikipedia/commons/9/9f/Raccoon_climbing_in_tree_-_Cropped_and_color_corrected.jpg" styleClass="imageStyle" height="400" width="600"/>
+        <apex:pageBlockSection title="About Raccoon"></apex:pageBlockSection>
+        <apex:outputlink value="https://en.wikipedia.org/wiki/Raccoon">  Click here to Read </apex:outputlink> 
+        <apex:pageBlockSection title="Date & Time of adding Info"> <apex:outputText value="2018-07-29T20:58:39.027Z">Date added</apex:outputText></apex:pageBlockSection>                      
+    </apex:pageBlock>
+</apex:page>
+<apex:page >
+    <h1>Pet Name</h1>
+    <apex:pageBlock title="Hedgehog">
+        <apex:pageBlockSection title="Image of Hedgehog"></apex:pageBlockSection>
+           <apex:image url="https://upload.wikimedia.org/wikipedia/commons/d/d4/Igel01.jpg" styleClass="imageStyle" height="400" width="600"/>
+        <apex:pageBlockSection title="About Hedgehog "></apex:pageBlockSection>
+        <apex:outputlink value="https://en.wikipedia.org/wiki/Hedgehog">/ Click here to Read </apex:outputlink> 
+        <apex:pageBlockSection title="Date & Time of adding Info"> <apex:outputText value="2018-07-30T18:10:57.027Z">Date added</apex:outputText></apex:pageBlockSection>                      
+    </apex:pageBlock>
+</apex:page>
+<apex:page >
+    <h1>Pet Name</h1>
+    <apex:pageBlock title="Goldfish">
+        <apex:pageBlockSection title="Image of Goldfish"></apex:pageBlockSection>
+           <apex:image url="https://upload.wikimedia.org/wikipedia/commons/e/e9/Goldfish3.jpg" styleClass="imageStyle" height="500" width="650"/>
+        <apex:pageBlockSection title="About Goldfish"></apex:pageBlockSection>
+        <apex:outputlink value="https://en.wikipedia.org/wiki/Goldfish">/ Click here to Read </apex:outputlink> 
+        <apex:pageBlockSection title="Date & Time of adding Info"> <apex:outputText value="2018-07-12T15:49:27.027Z">Date added</apex:outputText></apex:pageBlockSection>                      
+    </apex:pageBlock>
+</apex:page>
+<apex:page >
+    <h1>Pet Name</h1>
+    <apex:pageBlock title="Parrot">
+        <apex:pageBlockSection title="Image of Parrot"></apex:pageBlockSection>
+           <apex:image url="https://upload.wikimedia.org/wikipedia/commons/6/6d/Blue-and-Yellow-Macaw.jpg" styleClass="imageStyle" height="600" width="600"/>
+        <apex:pageBlockSection title="About Parrot"></apex:pageBlockSection>
+        <apex:outputlink value="https://en.wikipedia.org/wiki/Parrot"> Click here to Read </apex:outputlink> 
+        <apex:pageBlockSection title="Date & Time of addding Info"> <apex:outputText value="2018-07-26T04:20:16.027Z">Date added</apex:outputText></apex:pageBlockSection>                      
+    </apex:pageBlock>
+</apex:page>
+<apex:page >
+    <h1>Pet Name</h1>
+    <apex:pageBlock title="Horse">
+        <apex:pageBlockSection title="Image of Horse"></apex:pageBlockSection>
+           <apex:image url="https://upload.wikimedia.org/wikipedia/commons/d/de/Nokota_Horses_cropped.jpg" styleClass="imageStyle" height="400" width="600"/>
+        <apex:pageBlockSection title="About  "></apex:pageBlockSection>
+        <apex:outputlink value="https://en.wikipedia.org/wiki/Horse">  Click here to Read </apex:outputlink> 
+        <apex:pageBlockSection title="Date & Time of adding Info"> <apex:outputText value="2018-08-02T05:04:03.027Z">Date added</apex:outputText></apex:pageBlockSection>                      
+    </apex:pageBlock>
+</apex:page>
+<apex:page >
+    <h1>Pet Name</h1>
+    <apex:pageBlock title="Guinea Pig">
+        <apex:pageBlockSection title="Image of Guinea Pig"></apex:pageBlockSection>
+           <apex:image url="https://upload.wikimedia.org/wikipedia/commons/0/00/Two_adult_Guinea_Pigs_%28Cavia_porcellus%29.jpg" styleClass="imageStyle" height="400" width="600"/>
+        <apex:pageBlockSection title="AboutGuinea Pig"></apex:pageBlockSection>
+        <apex:outputlink value="https://en.wikipedia.org/wiki/Guinea_pig"> Click here to read </apex:outputlink> 
+        <apex:pageBlockSection title="Date & Time of adding"> <apex:outputText value="2018-08-04T10:45:29.027Z">Date added</apex:outputText></apex:pageBlockSection>                      
+    </apex:pageBlock>
+</apex:page>
